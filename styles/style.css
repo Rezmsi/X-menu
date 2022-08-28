@@ -1,0 +1,26 @@
+.img{
+    height: 55px;
+    cursor: pointer;
+    position: relative;
+}
+
+.icons img{
+    height: 20px;
+    position: absolute;
+    left: 26px;
+    top: 24px;
+    cursor: pointer;
+}
+
+.user{
+    display: none;
+}
+.chat{
+    display: none;
+}
+.tel{
+    display: none;
+}
+.info{
+    display: none;
+}
